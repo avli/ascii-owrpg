@@ -24,4 +24,4 @@ Use the arrow keys, WASD, and Vim keys to navigate.
 
 ## License
 
-[WTFPL](https://raw.githubusercontent.com/avli/ascii-owrpg/master/LICENSE.txt)
+[WTFPL](https://github.com/avli/ascii-owrpg/blob/master/LICENSE.txt)
